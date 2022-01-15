@@ -4,6 +4,7 @@ StudentSchoolSpringBootMicroservicesExample
 Example project of Spring Boot Microservices with the following services School and Student
 
 Try it out:
+
 Post:
 http://localhost:8081/schools/
 {
