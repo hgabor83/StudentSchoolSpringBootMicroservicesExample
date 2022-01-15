@@ -1,0 +1,4 @@
+# StudentSchoolSpringBootMicroservicesExample
+StudentSchoolSpringBootMicroservicesExample
+
+Example project of Spring Boot Microservices with the following services School and Student
